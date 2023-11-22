@@ -1,0 +1,25 @@
+<!DOCTYPE  html>
+<html lang=”en”>
+<head> 
+<meta charset=”UTF-8”>
+
+<meta name=”viewport”content=width=device-width,initial-scale=1.0>
+
+ <tittle>My Figma Style</title>
+</head>
+<body><header>
+         <h>My Wife and Kids</h></header>
+<ul>
+<li>My Wife: Chantel Sesiing </li>
+<li>My kids: Angela Sesing</li>
+<li>My kids: Samkelo Nkabinde</li>
+<li>My kids: Gomolemo Sesing</li>
+<li>My kids: Khanya Sesing</li>
+</ul>
+
+<footer><p> This was made by your father to present to you</p></footer>
+
+<img src=””>
+
+</body>
+</html>
