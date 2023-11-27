@@ -1,0 +1,25 @@
+<!DOCTYPE  html>
+<html lang=”en”>
+<head> 
+ <tittle>My Figma Style</title>
+</head>
+<body><header>
+         <h>My Wife and Kids</h></header>
+<ul>
+<li>My Wife: Chantel Sesiing </li>
+<li>My kids: Angela Sesing</li>
+<li>My kids: Samkelo Nkabinde</li>
+<li>My kids: Gomolemo Sesing</li>
+<li>My kids: Khanya Sesing</li>
+</ul>
+<seection><h2>Block1<h2>
+<img src="MTcxMDY4NzY3MjUxNTM5OTUz.webp"alt="If quote can speak check image">
+<p>This speaks to me personally it defines my life at the moment.</p>
+</section>
+<section>
+<h2>Block<h2>
+<p>A quote can manage a day so here's my favourite</p>
+<blockqoute>"Making people believe the unbelievable is no trick; it’s working hard"</blockqoute>
+<p>To be honest some quote's you can feel they've been through those situation</p></secion>
+</body>
+</html>
