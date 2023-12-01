@@ -1,5 +1,5 @@
 <!DOCTYPE  html>
-<html lang=”en”>
+<html lang="en">
 <head> 
  <tittle>My Figma Style</title>
 </head>
@@ -19,7 +19,7 @@
 <section>
 <h2>Block<h2>
 <p>A quote can manage a day so here's my favourite</p>
-<blockqoute>"Making people believe the unbelievable is no trick; it’s working hard"</blockqoute>
+<blockqoute>"Making people believe the unbelievable is no trick, it’s working hard"</blockqoute>
 <p>To be honest some quote's you can feel they've been through those situation</p></secion>
 </body>
 </html>

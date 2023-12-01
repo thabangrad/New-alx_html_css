@@ -1,10 +1,6 @@
-<!DOCTYPE  html>
-<html lang=”en”>
+<!DOCTYPE html>
+<html lang="en">
 <head> 
-<meta charset=”UTF-8”>
-
-<meta name=”viewport”content=width=device-width,initial-scale=1.0>
-
  <tittle>My Figma Style</title>
 </head>
 <body><header>
@@ -17,9 +13,9 @@
 <li>My kids: Khanya Sesing</li>
 </ul>
 
-<footer><p> This was made by your father to present to you</p></footer>
+<p> This was made by your father to present to you</p>
 
-<img src=””>
+<img src="https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg"alt="The motivation behind life see image">
 
 </body>
 </html>

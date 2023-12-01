@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+ <tittle>My Figma Style</title>
+</head>
+<body><header>
+         <h>My Wife and Kids</h></header>
+<ul>
+<li>My Wife: Chantel Sesiing </li>
+<li>My kids: Angela Sesing</li>
+<li>My kids: Samkelo Nkabinde</li>
+<li>My kids: Gomolemo Sesing</li>
+<li>My kids: Khanya Sesing</li>
+</ul>
+<seection><h2>Block<h2>
+<img src="MTcxMDY4NzY3MjUxNTM5OTUz"alt="If quote can speak check image">
+<p>This speaks to me personally it defines my life at the moment.</p>
+</section>
+<section>
+<h2>Block<h2>
+<p>A quote can manage a day so here's my favourite.</p>
+<blockqoute>"Making people believe the unbelievable is no trick, it’s working hard"</blockqoute>
+<p>To be honest some quote's you can feel they've been through those situation</p></secion>
+<section><h2>Block1<h2>
+<img src="MTcxMDY4NzY3MjU1MjA5OTY5"alt"The author is stylist check image">
+<p>I'm certain style has been created before time.</p>
+<p>Ratinng=4 stars</p>
+</section>
+<section><h2>Block2<h2>
+<img src="MTcxMDY4NzY3Nzg2MjQ4MTc3"alt="When they say trust no one see image">
+<p>I'm not perfect but when an author speaks to me let's talk about trust.</p>
+<p>Rating=5 stars</p>
+</section>
+<section><h2>Block3<h2>
+<img src="MTcxMDY4NzY3MjUyODUwNjcz"alt="I am a writer check my image">
+<p>The aim is to make sure we keep the reader interested.</p>
+<p>Rating=4 stars</p>
+</section>
+<section><h2>Block4<h2>
+<img src="MTcxMDY4NzY3MjUxOTMzMTY5"alt="The best advice ever checkout image">
+<p>As individuals we seek things that are there in front of us.</p>
+<p>Rating=5 stars</p>
+</section>
+<section><button>Watch Video</button>
+</section>
+<section><h2>Frequently Asked Questions</h2>
+<h3>What do quotes help with?</h3>
+<p>They can help with pathing your life.</p>
+</section>
+<section><h3>Which site is best for quotes?<h3>
+<p>Writers Digest.</p></section>
+<footer><p>The Best of the best</p>
+<img src="best-quotes-gandi"alt="please be the change in the world check image">
+<a href="URLLINK">
+<img src="https://blog.hubspot.com/hs-fs/hubfs/best-quotes-gandi.webp?width=650&height=454&name=best-quotes-gandi.webp"alt="can no one judge you image">
+<p>Finally I'm able to move on to next project, it’s been hard.</p>
+</footer>
+</body>
+</html>
